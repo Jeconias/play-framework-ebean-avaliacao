@@ -1,4 +1,4 @@
-name := """lista01"""
+name := """Q2"""
 organization := "olamundoweb.com.br"
 
 version := "1.0-SNAPSHOT"
